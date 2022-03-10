@@ -1,3 +1,3 @@
-# turkish_sentiment_analysis_project
+# Turkish Sentiment Analysis Project
 
-dataset = https://www.kaggle.com/idrisibrahimerten/trke-yorum-veri-seti-negpos
+Dataset download link = https://www.kaggle.com/idrisibrahimerten/trke-yorum-veri-seti-negpos
